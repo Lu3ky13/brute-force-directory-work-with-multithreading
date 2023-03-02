@@ -1,5 +1,5 @@
-# brute-force-directory-work-woth-multithreading
-brute force directory work woth multithreading
+# brute-force-directory-work-with-multithreading
+brute force directory work with multithreading
 
 
 don't forget change 
